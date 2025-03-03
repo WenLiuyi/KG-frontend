@@ -1,0 +1,9 @@
+/* styles.css */
+
+.gradient-card {
+  background: #ffffff;
+}
+
+.selected {
+  background: linear-gradient(to bottom, #ffffff, #0066cc);
+}
